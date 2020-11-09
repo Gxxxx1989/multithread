@@ -1,3 +1,5 @@
+package thread;
+
 /**
  * synchronized 可重入概念  A方法调用B方法的时候 A用synchronized 修饰，B同样用synchronized修饰，
  * 允许B用synchronized修饰的现象叫做可重入锁，否则产生死锁

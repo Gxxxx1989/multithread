@@ -1,3 +1,5 @@
+package thread;
+
 /**
  * 
  * synchronized 不能影响其他程序执行

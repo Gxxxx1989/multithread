@@ -1,4 +1,5 @@
-import javax.activation.MailcapCommandMap;
+package thread;
+
 /**
  * 线程通过实现Runnable接口实现
  *
@@ -6,6 +7,7 @@ import javax.activation.MailcapCommandMap;
  * @date 2020/11/8
  */
 public class Test2 implements Runnable{
+    @Override
     public void run() {
         Thread.currentThread().setName("线程2");
         System.out.println(Thread.currentThread().getName());

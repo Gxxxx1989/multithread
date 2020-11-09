@@ -1,3 +1,5 @@
+package thread;
+
 public class Test4 {
     private static int count=10;
     //synchronized 关键字

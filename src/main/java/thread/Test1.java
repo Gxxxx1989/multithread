@@ -1,4 +1,4 @@
-import javafx.scene.input.TouchEvent;
+package thread;
 
 /**
  * 线程通过继承Thread类实现

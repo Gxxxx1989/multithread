@@ -1,3 +1,4 @@
+package thread;
 
 /**
  * join方法 控制线程执行顺序  t3里调用t2.join() 等待t2线程执行完毕在执行t3线程
