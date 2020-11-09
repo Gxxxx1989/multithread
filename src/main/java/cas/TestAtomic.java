@@ -12,6 +12,7 @@ import java.util.concurrent.atomic.AtomicStampedReference;
  * @date 2020/11/9
  */
 public class TestAtomic {
+
     AtomicInteger atomicInteger = new AtomicInteger(0);
 
     public void m() {
