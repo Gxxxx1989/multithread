@@ -3,7 +3,7 @@ package exchanger;
 import java.util.concurrent.Exchanger;
 
 /**
- * 线程通信 交换数据
+ * 线程通信 交换数据（阻塞）
  *
  * @author guoxi_789@126.com
  * @date 2020/11/10
